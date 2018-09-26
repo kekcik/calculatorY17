@@ -173,3 +173,8 @@ let _ = foobar()
 //
 //B().foo()
 //
+
+
+//
+//let str: String? = "123"
+//print(str ?? "is NULL") //"123"
